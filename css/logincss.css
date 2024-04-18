@@ -1,0 +1,70 @@
+.contenedor-form {
+    background-color: white;
+}
+
+.msg-error {
+    font-size: 8px;
+}
+
+/* Nuevos estilos */
+body {
+    /* background-color: linear-gradient(#69CFDD, #AE48EC); */
+    /* background: linear-gradient(#69CFDD, #425A96); */
+    background-image: url("../img/fondoPlanta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label {
+    font-size: 13px;
+}
+
+.tituloPrincipal {
+    color: white;
+    font-size: 5rem;
+    color: #166226;
+    letter-spacing: 10px;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 1px;
+}
+
+.contenedor-form {
+    background-color: white;
+}
+
+.contenedor-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.contenedor-input input {
+    width: 250px;
+    padding-left: 30px;
+}
+
+.icono {
+    position: absolute;
+    top: 0;
+    left: 7.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: #2EC84C !important;
+}
+
+.titulo {
+    font-size: 2rem;
+}
+
+a {
+
+    color: #2EC84C !important;
+}
+
+button {
+    background-color: #2EC84C !important;
+    color: white !important;
+}
